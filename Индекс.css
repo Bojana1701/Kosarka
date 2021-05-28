@@ -1,0 +1,36 @@
+nav {
+	background-color: #FFA500;
+	height: 80px;
+}
+ul {
+	list-style-type: none;
+	display: flex;
+	margin: 10px;
+	padding: 30px;
+}
+ul li {
+	float: left;
+	height: 45px;
+}
+ul li a {
+	background: white;
+	border: 5px double red;
+	color: red;
+	padding: 12px 25px;
+	text-decoration: none;
+}
+a:hover{background-color:#D3D3D3}
+body {
+	margin: 70px;
+	font-family: courier;
+	background-image: url("Почетна слика.jpg");
+}
+h1 {
+    text-align: center;
+    background-color: #D3D3D3;
+	font-size: 85px;
+}
+h2 {
+	text-align: center;
+    background-color: #D3D3D3;
+}
